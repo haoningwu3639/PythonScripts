@@ -8,4 +8,5 @@
 #### And welcome to contribute to the repository with me together, haha.
 
 - [batch_rename.py](https://github.com/haoningwu3639/PythonScripts/blob/master/batch_rename.py): It can batch change the suffix of a group of files in a directory, or you can also batch rename a group of files with the same suffix.
+- [mkdir.py](https://github.com/haoningwu3639/PythonScripts/blob/master/mkdir.py): It can create a new directory if it doesn't exist.
 - 
